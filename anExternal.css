@@ -1,0 +1,11 @@
+*{
+
+}
+.right{
+  float: right;
+}
+.round{
+  border-radius: 15px;
+  background-color: blue;
+  width: 280px;
+}
